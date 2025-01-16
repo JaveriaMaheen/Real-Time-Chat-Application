@@ -55,3 +55,13 @@ The following non-functional requirements were considered in the development of 
 
 # Conclusion
 The Chat Application Project demonstrates a basic real-time chat application using HTML, CSS, JavaScript, and Node.js. By following the objectives, key activities, and technologies outlined in this overview, developers can create a functional and interactive chat application. This project serves as a foundation for more complex and feature-rich chat applications, and can be extended or modified to accommodate various requirements and use cases.
+
+
+# Output images:
+
+<img width="1440" alt="Screenshot 2025-01-16 at 10 07 53 PM" src="https://github.com/user-attachments/assets/4c8da5d4-90c2-4614-be69-df3c774069de" />
+
+
+<img width="1440" alt="Screenshot 2025-01-16 at 10 07 39 PM" src="https://github.com/user-attachments/assets/074d7440-4e37-48aa-a0a7-f85c2221921c" />
+
+
