@@ -1,4 +1,4 @@
-# Real-Time-Chat-Application - 2
+# Real-Time-Chat-Application
 
 **Name**: JAVERIA MAHEEN
 **Company**: CODETECH IT SOLUTIONS
